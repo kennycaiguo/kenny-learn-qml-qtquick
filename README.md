@@ -11,9 +11,9 @@
 # <a href="https://github.com/advancingu/QmlOgre">Integrates Ogre3D into Qt QML scenes by rendering Ogre to FBOs.</a>
 # <a href="https://github.com/luoyayun361/Qt-QML-Example">Qt、QML 示例集合。</a>
 # <a href="https://github.com/toby20130333/QtQuickExample">基于QtQuick的入门例子，方便大家入门学习</a>
-# <a href=""></a>  
-# <a href=""></a>  
-# <a href=""></a>  
+# <a href="https://github.com/gongjianbo/QmlComponentStyle">QML Component Style Demo Based on Qt5.12。QML组件样式Demo，以Qt5.12为基础版本</a>  
+# <a href="https://github.com/ftylitak/qzxing">Qt/QML wrapper library for the ZXing library. 1D/2D barcode image processing library</a>  
+# <a href="https://github.com/MidoriYakumo/learnopengl-qt3d">QML/Qt3D version of http://learnopengl.com samples</a>  
 # <a href=""></a>  
 # <a href=""></a>  
 # <a href=""></a>  
