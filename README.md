@@ -7,3 +7,5 @@
 # <a href="https://github.com/qmlnet/qmlnet">Qml.Net - Qt/QML integration/support for .NET</a>
 # <a href="https://github.com/mikalv/awesome-qt-qml">A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.</a>
 # <a href="https://github.com/qmlweb/qmlweb">A QML engine in a web browser. Current state: fixing things…</a>
+# <a href="https://github.com/mengps/QmlControls">Qt / Qml 控件</a>
+# <a href="https://github.com/advancingu/QmlOgre">Integrates Ogre3D into Qt QML scenes by rendering Ogre to FBOs.</a>
