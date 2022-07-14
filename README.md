@@ -15,6 +15,6 @@
 # <a href="https://github.com/ftylitak/qzxing">Qt/QML wrapper library for the ZXing library. 1D/2D barcode image processing library</a>  
 # <a href="https://github.com/MidoriYakumo/learnopengl-qt3d">QML/Qt3D version of http://learnopengl.com samples</a>  
 # <a href="https://www.zhihu.com/question/39607624">有哪些设计较好的开源 PyQt/Qt/Qml 应用？</a>  
-# <a href=""></a>  
+# <a href="https://github.com/JameScottX/QML-Multiple-windows">qml多窗体应用程序</a>  
 # <a href=""></a>  
 # <a href=""></a>  
