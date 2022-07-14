@@ -16,5 +16,13 @@
 # <a href="https://github.com/MidoriYakumo/learnopengl-qt3d">QML/Qt3D version of http://learnopengl.com samples</a>  
 # <a href="https://www.zhihu.com/question/39607624">有哪些设计较好的开源 PyQt/Qt/Qml 应用？</a>  
 # <a href="https://github.com/JameScottX/QML-Multiple-windows">qml多窗体应用程序</a>  
+# <a href="https://blog.csdn.net/ssspppfff/article/details/103585143?spm=1001.2101.3001.6650.13&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-13-103585143-blog-99690246.pc_relevant_multi_platform_whitelistv2_ad_hc&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-13-103585143-blog-99690246.pc_relevant_multi_platform_whitelistv2_ad_hc&utm_relevant_index=14">Qt Quick 多窗口实现的几种方法</a>  
 # <a href=""></a>  
+# <a href=""></a> 
+# <a href=""></a> 
 # <a href=""></a>  
+# <a href=""></a> 
+# <a href=""></a> 
+# <a href=""></a>  
+# <a href=""></a> 
+# <a href=""></a> 
