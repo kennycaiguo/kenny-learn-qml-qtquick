@@ -20,8 +20,8 @@
 # <a href="https://github.com/kennycaiguo/learn-qml-multiwin/tree/master/qt">qml实例程序，包含多窗体应用程序</a>  
 # <a href="https://github.com/RSATom/Qt/tree/master/qtgraphicaleffects">qt图形效果-qml</a> 
 # <a href="https://github.com/RSATom/Qt">Qt5.15.2Samples</a> 
-# <a href=""></a>  
-# <a href=""></a> 
+# <a href="https://github.com/LeonnardoVerol/example-tableview-qt-qml">TableView Example in Qt/QML Without C++</a>  
+# <a href="https://github.com/Qt-QML/QtAseman-widgets-collection">A set of C++ and QML tools and modules that helps you develop your projects easier and better</a> 
 # <a href=""></a> 
 # <a href=""></a>  
 # <a href=""></a> 
