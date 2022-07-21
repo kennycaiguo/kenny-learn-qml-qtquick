@@ -28,7 +28,7 @@
 # <a href="https://github.com/orgs/Qt-QML/repositories?type=all">QtQml仓库集合</a> 
 # <a href="https://github.com/impressJay/QT5AlbumBrowsers">qml练手项目图片查看器</a>  
 # <a href="https://gitee.com/Melon_zc/qml-project-implementation/tree/master/ECharts">Echarts Qml项目实现</a> 
-# <a href=""></a> 
+# <a href="https://gitee.com/forsun/awesome-qt-qml">厉害的qml</a> 
 # <a href=""></a>  
 # <a href=""></a> 
 # <a href=""></a> 
