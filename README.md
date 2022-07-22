@@ -30,7 +30,7 @@
 # <a href="https://gitee.com/Melon_zc/qml-project-implementation/tree/master/ECharts">Echarts Qml项目实现</a> 
 # <a href="https://gitee.com/forsun/awesome-qt-qml">厉害的qml</a> 
 # <a href="https://gitee.com/klfxbl1997/dz162-project/">播放音乐看图片</a>  
-# <a href=""></a> 
+# <a href="https://gitee.com/DreamLife-Technology_DreamLife/MyQmlProject/">MyQmlProject学习用</a> 
 # <a href=""></a> 
 # <a href=""></a> 
 # <a href=""></a>  
