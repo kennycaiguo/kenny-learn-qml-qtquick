@@ -32,6 +32,9 @@
 # <a href="https://gitee.com/klfxbl1997/dz162-project/">播放音乐看图片</a>  
 # <a href="https://gitee.com/DreamLife-Technology_DreamLife/MyQmlProject/">MyQmlProject学习用</a> 
 # <a href="https://gitee.com/eight_legs/qtquick/">qml学习项目-8legs的</a> 
+# <a href="https://gitee.com/jaredtao/TaoQuick">Qt进阶之路 / TaoQuick</a> 
+# <a href=""></a>  
+# <a href=""></a> 
 # <a href=""></a> 
 # <a href=""></a>  
 # <a href=""></a> 
