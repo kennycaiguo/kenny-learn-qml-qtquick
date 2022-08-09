@@ -35,6 +35,12 @@
 # <a href="https://gitee.com/jaredtao/TaoQuick">Qt进阶之路 / TaoQuick</a> 
 # <a href="https://gitee.com/xmlhh/QmlDemo/">利用QML / C ++实现桌面应用程序</a>  
 # <a href="https://github.com/toby20130333/qmlpathview">基于QML PathView实现的一些效果</a> 
+# <a href="https://github.com/chenzilin/qml-pathview">qml pathview example</a> 
+# <a href=""></a>  
+# <a href=""></a> 
+# <a href=""></a> 
+# <a href=""></a>  
+# <a href=""></a> 
 # <a href=""></a> 
 # <a href=""></a>  
 # <a href=""></a> 
