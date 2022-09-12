@@ -37,9 +37,10 @@
 # <a href="https://github.com/toby20130333/qmlpathview">基于QML PathView实现的一些效果</a> 
 # <a href="https://github.com/chenzilin/qml-pathview">qml pathview example</a> 
 # <a href="https://github.com/qt/qtcanvas3d">Qt Canvas 3D</a>  
-# <a href=""></a> 
-# <a href=""></a> 
-# <a href=""></a>  
+# QML多媒体编程资源列表如下：
+# <a href="https://github.com/swl-x/MystiQ">Qt5/C++ FFmpeg Media Converter</a> 
+# <a href="https://github.com/wangwenx190/QtMediaPlayer">A simple but powerful multimedia player library designed for Qt Quick.</a> 
+# <a href="https://invent.kde.org/multimedia/haruna/-/tree/master/">Haruna media player</a>  
 # <a href=""></a> 
 # <a href=""></a> 
 # <a href=""></a>  
