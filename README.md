@@ -41,8 +41,8 @@
 # <a href="https://github.com/swl-x/MystiQ">Qt5/C++ FFmpeg Media Converter</a> 
 # <a href="https://github.com/wangwenx190/QtMediaPlayer">A simple but powerful multimedia player library designed for Qt Quick.</a> 
 # <a href="https://invent.kde.org/multimedia/haruna/-/tree/master/">Haruna media player</a>  
-# <a href=""></a> 
-# <a href=""></a> 
+# <a href="https://github.com/AdrianEddy/qml-video-rs">Video player component for QML using Qt6 and `mdk-sdk`</a> 
+# <a href="https://github.com/coslyk/moonplayer">Video player that can play online videos from youtube, bilibili etc.</a> 
 # <a href=""></a>  
 # <a href=""></a> 
 # <a href=""></a> 
