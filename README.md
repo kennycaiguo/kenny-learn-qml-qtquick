@@ -1,3 +1,6 @@
+<img width="402" height="396" alt="image" src="https://github.com/user-attachments/assets/ead23ba3-855d-47e8-8f00-3e0e616cfe27" />
+
+
 # kenny-learn-qml-qtquick
 学习QtQuick和
 # <a href="https://github.com/qmlbook/qmlbook">The source code for the upcoming qml book</a>
